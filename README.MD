@@ -19,4 +19,5 @@ I used [NSSM](https://nssm.cc) for help me on this task. NSSM is a service helpe
 ```nssm stop my-java-service```
 
 ### Reference
-https://stackoverflow.com/questions/1617458/how-to-create-windows-service-from-java-jar
+* https://nssm.cc
+* https://stackoverflow.com/questions/1617458/how-to-create-windows-service-from-java-jar
